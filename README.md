@@ -17,7 +17,7 @@ Projeto em desenvolvimento.
 <br>
 
 <p align="center">
-  <img alt="HMS Software" src="./resources/BGLoading.png" width="100%">
+  <img alt="HMS Software" src="resources/BGLoading.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
